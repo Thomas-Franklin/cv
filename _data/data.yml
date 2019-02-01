@@ -44,11 +44,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      At an individual level, I've built a reputation of creating robust, stable, world class software
+      solutions during the last 12+ years. I specialize in best practices, accessibility security, automation
+      and telemetry. 
+
+      From a leadership standpoint, I help building and growing quality-driven, goal-oriented units that deliver 
+      value, embrace measurable results, and collaborate effectively with partners. My teams help customers 
+      achieve more, stakeholders be more effective, and fellow engineers become more productive, empowered and
+      happier.
 
 education:
     - degree: Business & Management Certificate
@@ -148,7 +151,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      https://resume.github.io/?xnt
+      [GitHub stuff](https://resume.github.io/?xnt)
 
 #    assignments:
 #      - title: Velocity
@@ -195,22 +198,34 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Leadership
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Design Patterns
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C#
+        level: 80%
+      
+      - name: Java
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Shell/Bash
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: Automation
+        level: 70%
+
+      - name: HTML/CSS
+        level: 70%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: Ruby / Ruby on Rails
         level: 60%
 
 footer: >
