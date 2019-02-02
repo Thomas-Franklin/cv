@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vicente Plata
-    tagline: Engineering Lead
+    tagline: Software Engineering Lead
     avatar: vpToon.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,9 +44,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      At an individual level, I've built a reputation of creating robust, stable, world class software
-      solutions during the last 12+ years. I specialize in best practices, accessibility security, automation
-      and telemetry. 
+      Software Development has had a paramount role in improving the lives of millions of people, even more so since
+      the popularization of the internet. But there's still a lot left to do. Whilst the technical aspects are fundamntal,
+      it's important to always keep in mind the human and organizational interactions that transform software into something
+      useful, safe and beautiful. That's why I'm passionate not only about creating software, but also helping other people's
+      develop their careers <strong>and</strong> learning a lot along the process, evidenced by the array of technology 
+      stacks that I've worked with throughout my career.
+      
+      As an Individual Contributor, I've built a strong reputation of creating robust, stable, world class software 
+      solutions during the last 12+ years. I specialize in best practices, accessibility security, automation and 
+      telemetry. I have considerable experience in the Travel, Finance and Telecommunication industries.
 
       From a leadership standpoint, I help building and growing quality-driven, goal-oriented units that deliver 
       value, embrace measurable results, and collaborate effectively with partners. My teams help customers 
@@ -106,7 +113,8 @@ experiences:
           - Feature development and bug fixing using Microsoft stack and standard web technologies
           - Live site support 
           - Android app automation
-          - Travel app web automation
+          - Travel web automation
+          - Telemetry and customer experience owner for MSN News and MSN Money / Finance
           - Office 365 Data Center security - Access Control. Scanning & Vulnerability Assessment / Compliance automation
 
     - role: Senior Software Engineer
@@ -151,7 +159,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      [GitHub stuff](https://resume.github.io/?xnt)
+      <a href="https://resume.github.io/?xnt">GitHub Stuff</a>
 
 #    assignments:
 #      - title: Velocity
