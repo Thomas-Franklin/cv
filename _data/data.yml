@@ -3,12 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vicente Plata
+<<<<<<< HEAD
     tagline: Engineering Lead
+=======
+    tagline: Software Engineering Lead
+>>>>>>> gh-pages
     avatar: vpToon.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,153 +48,204 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Software Development has had a paramount role in improving the lives of millions of people, even more so since
+      the popularization of the internet. But there's still a lot left to do. Whilst the technical aspects are fundamntal,
+      it's important to always keep in mind the human and organizational interactions that transform software into something
+      useful, safe and beautiful. That's why I'm passionate not only about creating software, but also helping other people's
+      develop their careers <strong>and</strong> learning a lot along the process, evidenced by the array of technology 
+      stacks that I've worked with throughout my career.
+      
+      As an Individual Contributor, I've built a strong reputation of creating robust, stable, world class software 
+      solutions during the last 12+ years. I specialize in best practices, accessibility security, automation and 
+      telemetry. I have considerable experience in the Travel, Finance and Telecommunication industries.
 
-      Second paragraph if required.
+      From a leadership standpoint, I help build and grow quality-driven, goal-oriented units that deliver 
+      value, embrace measurable results, and collaborate effectively with partners. My teams help customers 
+      achieve more, stakeholders be more effective, and fellow engineers become more productive, empowered and
+      happier.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Entrepreneurship 101
+      university: MaRS
+      time: 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Legal, Financial and Marketing foundations for entrepreneurs. Crafting of value proposition, 
+        brand building, funding, and customer segment identification. 
+        <a href="https://www.credential.net/4w39sqmc" target="_blank">See Online</a>.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Business & Management Certificate
+      university: Thompson Rivers University
+      time: 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Introduction to Business & Management concepts and strategies
 
-          - Bullet point
-          - Bullet point
+    - degree: Leadership & Strategic Management Certificate
+      university: Monterrey Institute of Technology
+      time: 2012
+      details: |
+        Leadership, strategic management and innovation techniques to enhance
+        human capital
+    
+    - degree: Associate of Computer Programming
+      university: National Polytechnic Institute, Mexico
+      time: 2003 - 2006
+      details: |
+        Programming, system analysis and software engineering
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Team Lead
+      time: 2018 - Present
+      company: Points International, Toronto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a Team Lead, I help build our platform, on-boarding new partners/tenants, and 
+        improving our product and team overall. Primarily, but not exclusively::
+          - React
+          - Ruby / Rails
+          - Postgres
+          - AWS
 
-          - Bullet point
-          - Bullet point
+        In addition to my Individual Contributions, I tap on my past experience and help our 
+        amazing team by::
+          - Empowering developers in their professional growth
+          - Alleviating the team by triaging hot issues
+          - Tackling yak shaving and the most mundane problems so they can hack and have fun
+          - Document standards, functional knowledge and complex parts
+          - Help further connecting and bridging our geographically distributed team and stakeholders
+
+    - role: Software Engineer 2
+      time: 2012 - 2018
+      company: Microsoft, Vancouver
+      details: |
+        MSN Web
+          - Main owner and responsible of article and gallery experiences for horizontals like mobile, accessibility, telemetry and others. 
+          - Full redesign of our mobile article and gallery experiences, emphasizing performance, clarity and homogeneity with other Microsoft products and design language
+          - Improve the accessibility of MSN for users with visual and physical disabilities (narrators, colour contrast, keyboard-based navigation, etcetera)
+          - Improve the mobile web MSN experience in areas such as article readers and slideshows
+          - Cross-team collaboration to create modules and sections for enhanced re-circulation and personalization -aiming towards increased monetization *and* user satisfaction
+          - Feature development and bug fixing using Microsoft stack and standard web technologies
+          - Live site support 
+          - Android app automation
+          - Travel web automation
+          - Telemetry and customer experience owner for MSN News and MSN Money / Finance
+          - Office 365 Data Center security - Access Control. Scanning & Vulnerability Assessment / Compliance automation
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2011 - 2012
+      company: Nearsoft / Switchfly, Hermosillo, MX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Contribute to the design and implementation of our travel & loyalty solution, 
+        mostly but not limited to our Java / POJO backend.
+          - Gather requirements and implement loyalty programmes, using connectors in our extensible core API
+          - Gather requirements and implement Single Sign On functionality for end-users, through SAML and integration with our partners' identity provider services
+          - Contribute to the development and bugfixing of our web frontend, using CFML / Railo, JavaScript, among others
+    
+    - role: Senior Software Engineer
+      time: 2010 - 2011
+      company: PCS Mexico, Mexico City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Create elegant, high performing solutions for our clients, leaders in the financial and telecom industries
+          - Support, troubleshooting and new features for IXE online bank services
+          - Rewrote the architecture for Telefonica Mexico company network service
+          - Developed a help desk software hosted in several small companies
+          - jQuery
+          - Struts
+          - Hibernate
+          - Tapestry
+    
+    - role: Engineering Manager and Consultant
+      time: 2006 - 2010
+      company: Javanes Solutions, Mexico City
+      details: |
+        Research on new technologies for fast implementation
+          - Managing a team with 2 Jr Developers, 2 Developers, 1 Infrastructure specialist and 2 QA graduates
+          - Technical Leader and Project Manager on related developments
+          - Sales and Pre Sales for extremely innovating projects
+          - Technical guidance on high risk projects
+          - Delivering several projects previously considered as ‘zombie’ projects
+          - Sales and Pre Sales for new clients or previously angry or disappointed clients
+          - Rewriting or improving legacy systems
+          - Integrating complex architectures or low budget yet highly demanded applications
+          - Java EE Best Practices and Design Patterns
+          - Code Conventions, detailed documentation
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      <a href="https://resume.github.io/?xnt">GitHub Stuff</a>
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Leadership
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Design Patterns
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C#
+        level: 80%
+      
+      - name: Java
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Shell/Bash
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: Automation
+        level: 70%
+
+      - name: HTML/CSS
+        level: 70%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: Ruby / Ruby on Rails
         level: 60%
 
 footer: >
