@@ -61,6 +61,14 @@ career-profile:
       happier.
 
 education:
+    - degree: Entrepreneurship 101
+      university: MaRS
+      time: 2018
+      details: |
+        Legal, Financial and Marketing foundations for entrepreneurs. Crafting of value proposition, 
+        brand building, funding, and customer segment identification. 
+        <a href="https://www.credential.net/4w39sqmc" target="_blank">See Online</a>.
+
     - degree: Business & Management Certificate
       university: Thompson Rivers University
       time: 2017
