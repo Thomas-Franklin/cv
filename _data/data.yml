@@ -45,13 +45,13 @@ career-profile:
     title: Career Profile
     summary: |
       Software Development has had a paramount role in improving the lives of millions of people, even more so since
-      the popularization of the internet. But there's still a lot left to do. Whilst the technical aspects are fundamntal,
+      the popularization of the internet. But there's still a lot left to do. Whilst the technical aspects are fundamental,
       it's important to always keep in mind the human and organizational interactions that transform software into something
       useful, safe and beautiful. That's why I'm passionate not only about creating software, but also helping other people's
       develop their careers <strong>and</strong> learning a lot along the process, evidenced by the array of technology 
       stacks that I've worked with throughout my career.
       
-      As an Individual Contributor, I've built a strong reputation of creating robust, stable, world class software 
+      As an Individual Contributor, I've built a strong reputation of creating robust, stable, world-class software 
       solutions during the last 12+ years. I specialize in best practices, accessibility security, automation and 
       telemetry. I have considerable experience in the Travel, Finance and Telecommunication industries.
 
@@ -94,17 +94,17 @@ experiences:
       company: Points International, Toronto
       details: |
         As a Team Lead, I help build our platform, on-boarding new partners/tenants, and 
-        improving our product and team overall. Primarily, but not exclusively::
+        improving our product and team overall. Primarily, but not exclusively
           - React
           - Ruby / Rails
           - Postgres
           - AWS
 
-        In addition to my Individual Contributions, I tap on my past experience and help our 
-        amazing team by::
+        In addition to my Individual Contributions, I tap on my experience and help our 
+        amazing team by
           - Empowering developers in their professional growth
           - Alleviating the team by triaging hot issues
-          - Tackling yak shaving and the most mundane problems so they can hack and have fun
+          - Tackling yak shaving and the most mundane problems, so they can hack and have fun
           - Document standards, functional knowledge and complex parts
           - Help further connecting and bridging our geographically distributed team and stakeholders
 
@@ -113,7 +113,7 @@ experiences:
       company: Microsoft, Vancouver
       details: |
         MSN Web
-          - Main owner and responsible of article and gallery experiences for horizontals like mobile, accessibility, telemetry and others. 
+          - Main owner and responsible for article and gallery experiences for horizontals like mobile, accessibility, telemetry and others. 
           - Full redesign of our mobile article and gallery experiences, emphasizing performance, clarity and homogeneity with other Microsoft products and design language
           - Improve the accessibility of MSN for users with visual and physical disabilities (narrators, colour contrast, keyboard-based navigation, etcetera)
           - Improve the mobile web MSN experience in areas such as article readers and slideshows
@@ -133,7 +133,7 @@ experiences:
         mostly but not limited to our Java / POJO backend.
           - Gather requirements and implement loyalty programmes, using connectors in our extensible core API
           - Gather requirements and implement Single Sign On functionality for end-users, through SAML and integration with our partners' identity provider services
-          - Contribute to the development and bugfixing of our web frontend, using CFML / Railo, JavaScript, among others
+          - Contribute to the development and bug fixing of our web frontend, using CFML / Railo, JavaScript, among others
     
     - role: Senior Software Engineer
       time: 2010 - 2011
