@@ -89,8 +89,14 @@ education:
         Programming, system analysis and software engineering
 
 experiences:
+    - role: Senior Engineering Lead
+      time: 2019 - Present
+      company: Hims
+      details: |
+        Coming soon. Visit [hims](https://forhims.com) to know more though
+
     - role: Team Lead
-      time: 2018 - Present
+      time: 2018 - 2019
       company: Points International, Toronto
       details: |
         As a Team Lead, I help build our platform, on-boarding new partners/tenants, and 
