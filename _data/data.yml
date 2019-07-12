@@ -91,9 +91,29 @@ education:
 experiences:
     - role: Senior Engineering Lead
       time: 2019 - Present
-      company: Hims
+      company: hims & hers
       details: |
-        Coming soon. Visit [hims](https://forhims.com) to know more though
+        Hims & hers provide easier, more affordable access to the prescriptions, products and medical advice people need. Especially about the things they find hard to talk about.
+
+        Some of our prescription-grade products require you to go through a telemedicine visit, to receive a remote diagnosis and treatment from trusted medical professionals.
+
+        We build the systems that make this happen. In particular, I lead the frontend part of our telemedicine and customer experience platforms. I empower a team of very talented people working in primarily remote arrangements to build a frontend platform that technically relies on::
+          - React
+          - Redux
+          - Redux-Saga
+          - PostgreSQL / PostgREST
+          - Node.js
+          
+        I also::
+          - Lead a small team of developers, finding career building opportunities that match their personal interests while driving business impact
+          - Identify areas of opportunity and risk for the platform
+          - Communicate with stakeholders
+          - Address urgent escalations
+          - Ensure the transparency and accuracy of rolled-up status updates
+          - Promote best practices and professional development through coaching, code reviews, etc
+          - Identify collaboration opportunities with other teams (synergy, if you excuse the buzzword)
+          - Coordinate release management tasks and responsibilities
+          - Increase the technical platform documentation and stability
 
     - role: Team Lead
       time: 2018 - 2019
