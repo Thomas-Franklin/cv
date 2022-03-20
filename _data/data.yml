@@ -89,8 +89,37 @@ education:
       Programming, system analysis and software engineering
 
 experiences:
+  - role: VP of Engineering
+    time: 2021 - 2022
+    company: Runway Health
+    details: |
+    Runway Health redefines the relationship between Travel, Health and Technology by providing with affordable, convenient access to travel medications.
+
+    My responsibilities include:
+      - Planning, designing and building new products and services
+      - Leading the team through management and mentorship
+      - Contributing to recruitment activities, team and culture building
+      - Developing standards and procedures to ensure that quality expectations are consistently met
+      - Preparing and optimizing budgets
+      - Recommending technological developments and efficiency improvements
+      - Developing the team's skills to ensure quality end products
+
+  - role: Tech Lead
+    time: 2021 - 2022
+    company: Shopify
+    details: |
+    Shop App is your smart shopping assistant. It helps you discover products, follow stores, track your packages and pay for your purchases, among others.
+    
+    The payment features are provided by Shop Pay - A thoughtful way to pay that is fast, friendly with your wallet (i.e. installments) and with the planet, via carbon offsets and tree planting.
+    
+    I lead a small team of developers that take care of the surface where these offerings connect...
+      - Improving in-app checkout experiences, fine-tuning small wins and A/B testing the big ones
+      - Communicating pay features within the app, by coordinating with technical stakeholders in other areas
+      - Displaying and sharing our sustainability efforts, in app and on the web
+      - Promoting the app and its features from the Pay website
+
   - role: Senior Engineering Lead
-    time: 2019 - Present
+    time: 2019 - 2021
     company: hims & hers
     details: |
       Hims & hers provide easier, more affordable access to the prescriptions, products and medical advice people need. Especially about the things they find hard to talk about.
@@ -255,6 +284,18 @@ skills:
     - name: Linux
       level: 90%
 
+    - name: JavaScript
+      level: 85%
+
+    - name: Typescript
+      level: 85%
+
+    - name: React
+      level: 85%
+
+    - name: React Native
+      level: 85%
+
     - name: C#
       level: 80%
 
@@ -264,23 +305,18 @@ skills:
     - name: Shell/Bash
       level: 80%
 
+    - name: PostgreSQL
+      level: 80%
+
     - name: Automation
       level: 70%
 
     - name: HTML/CSS
       level: 70%
 
-    - name: JavaScript
-      level: 70%
-
-    - name: Typescript
-      level: 70%
-
     - name: Ruby / Ruby on Rails
       level: 60%
 
-    - name: PostgreSQL
-      level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
