@@ -7,228 +7,64 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Vicente Plata
-  tagline: Software Engineering Lead
-  avatar: vpToon.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Thomas Franklin 
+  tagline: SRE / Software Engineer / DevOps
+  avatar: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: --
   phone: --
-  website: xnt.github.io #do not add http://
-  linkedin: vrplata
-  github: xnt
+  website: https://thomas-franklin.github.io/ #do not add http://
+  linkedin: thomas-franklin
+  github: thomas-franklin
   gitlab:
   bitbucket:
-  twitter: "@xnt"
-  stack-overflow: 674066 # Number/Username, e.g. 123456/alandoe
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: Spanish
-      level: Native
-
     - idiom: English
-      level: Professional + Conversational
+      level: Native
 
   interests:
     - item: Reading
       link:
 
-    - item: Photography
+    - item: Mountainbiking 
       link:
 
-    - item: History
+    - item: TV Series
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Software Development has had a paramount role in improving the lives of millions of people, even more so since
-    the popularization of the internet. But there's still a lot left to do. Whilst the technical aspects are fundamental,
-    it's important to always keep in mind the human and organizational interactions that transform software into something
-    useful, safe and beautiful. That's why I'm passionate not only about creating software, but also helping other people's
-    develop their careers <strong>and</strong> learning a lot along the process, evidenced by the array of technology 
-    stacks that I've worked with throughout my career.
-
-    As an Individual Contributor, I've built a strong reputation of creating robust, stable, world-class software 
-    solutions during the last 12+ years. I specialize in best practices, accessibility security, automation and 
-    telemetry. I have considerable experience in the Travel, Finance and Telecommunication industries.
-
-    From a leadership standpoint, I help build and grow quality-driven, goal-oriented units that deliver 
-    value, embrace measurable results, and collaborate effectively with partners. My teams help customers 
-    achieve more, stakeholders be more effective, and fellow engineers become more productive, empowered and
-    happier.
+    A proven Software Engineer with a track record of providing high quality, and reliable deliverables efficiently. 
+    Considered a polyglot of sorts with prior production experience of working with Java, JavaScript, Ruby, and Python.
 
 education:
-  - degree: Entrepreneurship 101
-    university: MaRS
-    time: 2018 | <a href="https://www.credential.net/4w39sqmc" target="_blank">See Online</a>.
+  - degree: B.Eng. Software Engineering
+    university: University of Ulster
+    time: 2014-2018
     details: |
-      Legal, Financial and Marketing foundations for entrepreneurs. Crafting of value proposition, 
-      brand building, funding, and customer segment identification. 
-      <a href="https://www.credential.net/4w39sqmc" target="_blank">See Online</a>.
-
-  - degree: Business & Management Certificate
-    university: Thompson Rivers University
-    time: 2017
-    details: |
-      Introduction to Business & Management concepts and strategies
-
-  - degree: Leadership & Strategic Management Certificate
-    university: Monterrey Institute of Technology
-    time: 2012
-    details: |
-      Leadership, strategic management and innovation techniques to enhance
-      human capital
-
-  - degree: Associate of Computer Programming
-    university: National Polytechnic Institute, Mexico
-    time: 2003 - 2006
-    details: |
-      Programming, system analysis and software engineering
+      The Software Engineering course offers a broadly-based education in computing science with an emphasis on the principles and practices of software development. 
+      <a href="https://www.ulster.ac.uk/courses/202223/software-engineering-25127" target="_blank">See Online</a>.
 
 experiences:
-  - role: VP of Engineering
-    time: 2022 - Present
-    company: Runway Health
+  - role: Site Reliability Engineer II
+    time: July 2022 - Present
+    company: Trustpilot
     details: |
-      Runway Health redefines the relationship between Travel, Health and Technology by providing with affordable, convenient access to travel medications.
+      Trustpilot was founded in 2007 with a vision to create an independent currency of trust. 
+      We're a digital platform that brings businesses and consumers together to foster trust and inspire collaboration. 
+      We're free to use, open to everybody, and built on transparency.
 
-      My responsibilities include:
-        - Planning, designing and building new products and services
-        - Leading the team through management and mentorship
-        - Contributing to recruitment activities, team and culture building
-        - Developing standards and procedures to ensure that quality expectations are consistently met
-        - Preparing and optimizing budgets
-        - Recommending technological developments and efficiency improvements
-        - Developing the team's skills to ensure quality end products
-
-  - role: Tech Lead
-    time: 2021 - 2022
-    company: Shopify
-    details: |
-      Shop App is your smart shopping assistant. It helps you discover products, follow stores, track your packages and pay for your purchases, among others.
-
-      The payment features are provided by Shop Pay - A thoughtful way to pay that is fast, friendly with your wallet (i.e. installments) and with the planet, via carbon offsets and tree planting.
-
-      I lead a small team of developers that take care of the surface where these offerings connect...
-        - Improving in-app checkout experiences, fine-tuning small wins and A/B testing the big ones
-        - Communicating pay features within the app, by coordinating with technical stakeholders in other areas
-        - Displaying and sharing our sustainability efforts, in app and on the web
-        - Promoting the app and its features from the Pay website
-
-  - role: Senior Engineering Lead
-    time: 2019 - 2021
-    company: hims & hers
-    details: |
-      Hims & hers provide easier, more affordable access to the prescriptions, products and medical advice people need. Especially about the things they find hard to talk about.
-
-      Some of our prescription-grade products require you to go through a telemedicine visit, to receive a remote diagnosis and treatment from trusted medical professionals.
-
-      We build the systems that make this happen. In particular, I lead the frontend part of our telemedicine and customer experience platforms. I empower a team of very talented people working in primarily remote arrangements to build a frontend platform that technically relies on...
-        - React
-        - Redux
-        - Redux-Saga
-        - PostgreSQL / PostgREST
-        - Node.js
-        
-      I also...
-        - Lead a small team of developers, finding career building opportunities that match their personal interests while driving business impact
-        - Identify areas of opportunity and risk for the platform
-        - Communicate with stakeholders
-        - Address urgent escalations
-        - Ensure the transparency and accuracy of rolled-up status updates
-        - Promote best practices and professional development through coaching, code reviews, etc
-        - Identify collaboration opportunities with other teams (synergy, if you excuse the buzzword)
-        - Coordinate release management tasks and responsibilities
-        - Increase the technical platform documentation and stability
-
-      Some high-profile cool things I've personally worked on (click to learn more)...
-        - [Extending our services to all 50 US States](https://medium.com/hims-hers/hims-hers-is-coming-to-all-50-states-7ebf5e729c52)
-        - [First telemed provider of at-home COVID Saliva Tests](https://www.fastcompany.com/90504587/covid-19-saliva-tests-you-can-take-at-home-have-finally-arrived)
-        - [Launching Spanish Language services](https://tcrn.ch/2LN0fg5)
-        - [Launching Primary Care treatments](https://medium.com/hims-hers/hims-hers-adds-primary-care-treatment-28d81c58ccd7)
-
-  - role: Team Lead
-    time: 2018 - 2019
-    company: Points International, Toronto
-    details: |
-      As a Team Lead, I help build our platform, on-boarding new partners/tenants, and 
-      improving our product and team overall. Primarily, but not exclusively
-        - React
-        - Ruby / Rails
-        - Postgres
-        - AWS
-
-      In addition to my Individual Contributions, I tap on my experience and help our 
-      amazing team by
-        - Empowering developers in their professional growth
-        - Alleviating the team by triaging hot issues
-        - Tackling yak shaving and the most mundane problems, so they can hack and have fun
-        - Document standards, functional knowledge and complex parts
-        - Help further connecting and bridging our geographically distributed team and stakeholders
-
-  - role: Software Engineer 2
-    time: 2012 - 2018
-    company: Microsoft, Vancouver
-    details: |
-      MSN Web
-        - Main owner and responsible for article and gallery experiences for horizontals like mobile, accessibility, telemetry and others. 
-        - Full redesign of our mobile article and gallery experiences, emphasizing performance, clarity and homogeneity with other Microsoft products and design language
-        - Improve the accessibility of MSN for users with visual and physical disabilities (narrators, colour contrast, keyboard-based navigation, etcetera)
-        - Improve the mobile web MSN experience in areas such as article readers and slideshows
-        - Cross-team collaboration to create modules and sections for enhanced re-circulation and personalization -aiming towards increased monetization *and* user satisfaction
-        - Feature development and bug fixing using Microsoft stack and standard web technologies
-        - Live site support 
-        - Android app automation
-        - Travel web automation
-        - Telemetry and customer experience owner for MSN News and MSN Money / Finance
-        - Office 365 Data Center security - Access Control. Scanning & Vulnerability Assessment / Compliance automation
-
-  - role: Senior Software Engineer
-    time: 2011 - 2012
-    company: Nearsoft / Switchfly, Hermosillo, MX
-    details: |
-      Contribute to the design and implementation of our travel & loyalty solution, 
-      mostly but not limited to our Java / POJO backend.
-        - Gather requirements and implement loyalty programmes, using connectors in our extensible core API
-        - Gather requirements and implement Single Sign On functionality for end-users, through SAML and integration with our partners' identity provider services
-        - Contribute to the development and bug fixing of our web frontend, using CFML / Railo, JavaScript, among others
-
-  - role: Senior Software Engineer
-    time: 2010 - 2011
-    company: PCS Mexico, Mexico City
-    details: |
-      Create elegant, high performing solutions for our clients, leaders in the financial and telecom industries
-        - Support, troubleshooting and new features for IXE online bank services
-        - Rewrote the architecture for Telefonica Mexico company network service
-        - Developed a help desk software hosted in several small companies
-        - jQuery
-        - Struts
-        - Hibernate
-        - Tapestry
-
-  - role: Engineering Manager and Consultant
-    time: 2006 - 2010
-    company: Javanes Solutions, Mexico City
-    details: |
-      Research on new technologies for fast implementation
-        - Managing a team with 2 Jr Developers, 2 Developers, 1 Infrastructure specialist and 2 QA graduates
-        - Technical Leader and Project Manager on related developments
-        - Sales and Pre Sales for extremely innovating projects
-        - Technical guidance on high risk projects
-        - Delivering several projects previously considered as ‘zombie’ projects
-        - Sales and Pre Sales for new clients or previously angry or disappointed clients
-        - Rewriting or improving legacy systems
-        - Integrating complex architectures or low budget yet highly demanded applications
-        - Java EE Best Practices and Design Patterns
-        - Code Conventions, detailed documentation
-
-projects:
-  title: Projects
-  intro: >
-    <a href="https://resume.github.io/?xnt">GitHub Stuff</a>
+# projects:
+#   title: Projects
+#   intro: >
+#     <a href="https://resume.github.io/?xnt">GitHub Stuff</a>
 
 #    assignments:
 #      - title: Velocity
@@ -275,32 +111,20 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Leadership
-      level: 98%
-
-    - name: Design Patterns
-      level: 98%
-
     - name: Linux
       level: 90%
 
     - name: JavaScript
-      level: 85%
+      level: 90%
 
     - name: Typescript
-      level: 85%
+      level: 80%
 
     - name: React
-      level: 85%
-
-    - name: React Native
-      level: 85%
-
-    - name: C#
       level: 80%
 
     - name: Java
-      level: 80%
+      level: 90%
 
     - name: Shell/Bash
       level: 80%
@@ -312,10 +136,13 @@ skills:
       level: 70%
 
     - name: HTML/CSS
-      level: 70%
+      level: 58%
 
     - name: Ruby / Ruby on Rails
-      level: 60%
+      level: 75%
+    
+    - name: AWS
+      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
