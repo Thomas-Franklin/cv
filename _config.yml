@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Vicente Plata - Resume
-url: 'https://vplata.dev'
+url: 'https://thomas-franklin.github.io'
 baseurl: '/cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
