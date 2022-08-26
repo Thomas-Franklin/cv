@@ -61,6 +61,86 @@ experiences:
       We're a digital platform that brings businesses and consumers together to foster trust and inspire collaboration. 
       We're free to use, open to everybody, and built on transparency.
 
+      Working within the SRE team my key responsibilities included:
+      * Engaging with other teams to utilise best practices
+      * Creating tools to help make a `paved roads` for developer productivity
+      * Triaging and fixing issues within the pipelines
+        * logging
+        * monitoring
+        * etc.
+
+  - role: Senior Software Engineer
+    time: Feb - June 2022
+    company: Rapid7
+    details: |
+      Promotion from previous role with extension of role of more of a mentor across teams providing technical expertise in ongoing work.
+
+  - role: Software Engineer II
+    time: Sep 2020 - Feb 2022
+    company: Rapid7
+    details: |
+      Working within the Detection and Response space of Rapid7 where I am responsible for building out a series of web applications capable of handling 1,000s of events a second sourced from our core products.
+
+      Key responsibilities:
+      * Working within an scrum team responsible for tackling all new features within our application
+      * triaging and identifying bugs reported by customers
+      * designing and building out applications processing large volumes of data from within our core products
+
+      Day to day using a range of technologies and tools notably including the following:
+      * Spring
+      * Terraform
+      * AWS
+      * Kubernetes
+      * ElasticSearch
+
+  - role: Software Engineer
+    time: Aug 2019 - Sep 2020
+    company: loyalBe
+    details: |
+      loyalBe is a startup with the goal of making loyalty with retailers, merchants etc. easier. It takes the friction out of earning rewards by leveraging Open Banking to connect up your account and earn rewards based on your purchasing, no longer do you require multiple loyalty cards/apps, and it can all be earned through using your debit card as normal.
+
+      Key responsibilities:
+
+      * Designing and maintaining backend processing services dealing with processing of users transactional data using Open Banking APIs
+      * Designing and building of services to communicate with various financial institutions through Open Banking to connect to and retrieve transactional data of our users
+      * Maintaining of dashboards for businesses enrolled on the loyalBe service
+      * Help improve developer productivity through shared scripts in building and deploying services
+  
+  - role: Associate Software Engineer
+    time: Aug 2018 - Aug 2019
+    company: Puppet
+    details: |
+      Key contributor to a series of supported Puppet modules for a range of networking devices to enhance the Networking capabilities offered by Puppet. Working closely with the likes of Cisco, Palo Alto and F5 to extend the support of automating their networking devices.
+
+      As part of maintaining these supported modules, using a range of technologies including Puppet, Ruby, Jenkins, AWS amongst others utilising best practises of CI/CD, and automated testing strategies.
+
+      Key responsibilities included:
+
+      * Design and development of new Puppet modules
+      * Automated testing
+      * Maintaining and contributing to existing Puppet modules
+      * CI/CD principles
+      * Infrastructure automation
+      * Community engagement
+
+  - role: Senior Software Engineer
+    time: June 2016 - Sep 2017
+    company: Kainos
+    details: |
+      During my placement year I got to travel over to Nottingham and work on a client site. This allowed me to learn invaluable skills, such as dealing with clients on a client site.
+
+      Along with the personal skills gained, I got to work on several public sector projects using technologies such assignments:
+      * Java 
+      * PHP 
+      * Jenkins
+      * Terraform
+      * Puppet
+      * AWS Lambdas
+      * AWS DynamoDB
+      * MariaDB
+      * MySQL
+      * Amongst others
+
 # projects:
 #   title: Projects
 #   intro: >
