@@ -63,6 +63,7 @@ experiences:
       We're free to use, open to everybody, and built on transparency.
 
       Working within the SRE team my key responsibilities included:
+      
       Reducing Downtime: Implemented BC/DR strategies that have substantially reduced system downtime 
       and improved overall service availability.
 
@@ -219,7 +220,7 @@ skills:
     - name: GCP
       level: 60%
     
-    - name: Grafana/Prometheus/Datadog
+    - name: Metrics / Events handling
       level: 85%
 
 footer: >
