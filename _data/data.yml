@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Thomas Franklin 
-  tagline: SRE / Software Engineer / DevOps
+  tagline: Elevating Operations with Software Engineering Expertise
   avatar: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
   website: thomas-franklin.github.io/ #do not add http://
   linkedin: thomas-franklin
   github: thomas-franklin
-  gitlab:
+  gitlab: thomas-franklin
   bitbucket:
   twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -39,10 +39,11 @@ sidebar:
       link:
 
 career-profile:
-  title: Career Profile
+  title: Summary
   summary: |
-    A proven Software Engineer with a track record of providing high quality, and reliable deliverables efficiently. 
-    Considered a polyglot of sorts with prior production experience of working with Java, JavaScript, Ruby, and Python.
+    As a dynamic and highly adaptable professional, I have evolved from a seasoned software engineer into a proficient DevOps/SRE (Site Reliability Engineer). 
+    With a rich history of experience in multiple programming languages and a comprehensive skill set, 
+    I bring a unique perspective to the world of operations and infrastructure management.
 
 education:
   - degree: B.Eng. Software Engineering
@@ -62,12 +63,15 @@ experiences:
       We're free to use, open to everybody, and built on transparency.
 
       Working within the SRE team my key responsibilities included:
-      * Engaging with other teams to utilise best practices
-      * Creating tools to help make a `paved roads` for developer productivity
-      * Triaging and fixing issues within the pipelines
-        * logging
-        * monitoring
-        * etc.
+      Reducing Downtime: Implemented BC/DR strategies that have substantially reduced system downtime 
+      and improved overall service availability.
+
+      Cost Optimisation: Optimised infrastructure costs through rightsizing and developer cost awareness.
+
+      Security Enhancements: Strengthened security postures through the 
+      implementation of best practices and automated security checks of applying least priviledges access policies.
+
+      Team Collaboration: Fostered collaboration between development and operations teams, fostering a culture of shared responsibility and faster delivery cycles.
 
   - role: Senior Software Engineer
     time: Feb - June 2022
@@ -123,23 +127,11 @@ experiences:
       * Infrastructure automation
       * Community engagement
 
-  - role: Senior Software Engineer
+  - role: Placement Software Engineer
     time: June 2016 - Sep 2017
     company: Kainos
     details: |
-      During my placement year I got to travel over to Nottingham and work on a client site. This allowed me to learn invaluable skills, such as dealing with clients on a client site.
-
-      Along with the personal skills gained, I got to work on several public sector projects using technologies such assignments:
-      * Java 
-      * PHP 
-      * Jenkins
-      * Terraform
-      * Puppet
-      * AWS Lambdas
-      * AWS DynamoDB
-      * MariaDB
-      * MySQL
-      * Amongst others
+      Working on-site for a major public sector project allowed me to gain invaluable insights into the unique challenges and demands of government projects.
 
 # projects:
 #   title: Projects
@@ -213,7 +205,7 @@ skills:
       level: 80%
 
     - name: Automation
-      level: 70%
+      level: 90%
 
     - name: HTML/CSS
       level: 58%
@@ -223,6 +215,12 @@ skills:
     
     - name: AWS
       level: 90%
+    
+    - name: GCP
+      level: 60%
+    
+    - name: Grafana/Prometheus/Datadog
+      level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
